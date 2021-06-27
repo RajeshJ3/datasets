@@ -5,6 +5,7 @@ Just get the **raw** file url of any of these datasets.
 
 # Index
 - [Adult Income Dataset](./adult-income.csv)
+- [Heart Attack Dataset](./heart-attack.csv)
 
 ---
 
